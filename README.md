@@ -6,11 +6,10 @@ Each project focuses on real-world business problems and delivers actionable ins
 1. Customer Purchase Behavior Analysis
 Tools: SQL, Power BI
 
-Analyzed telecom customer churn data to identify high-risk customer segments.
+Analyzed Customer Purchase Behavior to identify sales.
 Performed data analysis using SQL with CTEs and views.
-Created interactive Power BI dashboards to visualize churn trends, demographics, and usage behavior.
-Identified key churn drivers and provided retention-focused insights.
-📁 Folder: Telecom Customer Churn Analysis
+Created interactive Power BI dashboards to visualize sales trends, demographics, and usage behavior based on Payment methods.
+📁 Folder: Customer Purchase Behavior Analysis
 
 2. Coffee Shop Sales Performance Analysis
 Tools: SQL, Python, Power BI
