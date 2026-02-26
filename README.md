@@ -3,7 +3,7 @@ This repository contains entry-level data analyst projects demonstrating practic
 Each project focuses on real-world business problems and delivers actionable insights through data analysis and visualization.
 
 📊 Projects
-1. Telecom Customer Churn Analysis
+1. Customer Purchase Behavior Analysis
 Tools: SQL, Power BI
 
 Analyzed telecom customer churn data to identify high-risk customer segments.
